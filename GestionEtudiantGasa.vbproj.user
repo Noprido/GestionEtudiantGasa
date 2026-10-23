@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmBulletin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmClassement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmClasses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEtudiants.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMatieres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

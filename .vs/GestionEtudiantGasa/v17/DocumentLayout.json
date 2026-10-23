@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\GestionEtudiantGasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\bulletinpdf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:bulletinpdf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\gestionetudiantgasa.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:gestionetudiantgasa.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\resultats.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:resultats.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\models.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:models.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\frmclassement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:frmclassement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\frmclassement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:frmclassement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\frmclassement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:frmclassement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\calculateur.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:calculateur.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\db.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:db.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|c:\\data\\gestionetudiantgasa\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABC7D017-F90E-4FD3-899F-83F2377CEA9E}|GestionEtudiantGasa.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletinPdf.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\BulletinPdf.vb",
+              "RelativeDocumentMoniker": "BulletinPdf.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\BulletinPdf.vb",
+              "RelativeToolTip": "BulletinPdf.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T09:20:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resultats.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\Resultats.vb",
+              "RelativeDocumentMoniker": "Resultats.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\Resultats.vb",
+              "RelativeToolTip": "Resultats.vb",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T09:04:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmClassement.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\FrmClassement.vb",
+              "RelativeDocumentMoniker": "FrmClassement.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\FrmClassement.vb",
+              "RelativeToolTip": "FrmClassement.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T09:01:02.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmClassement.vb [Conception]",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\FrmClassement.vb",
+              "RelativeDocumentMoniker": "FrmClassement.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\FrmClassement.vb [Conception]",
+              "RelativeToolTip": "FrmClassement.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T09:00:54.795Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Db.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\Db.vb",
+              "RelativeDocumentMoniker": "Db.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\Db.vb",
+              "RelativeToolTip": "Db.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T08:40:42.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T08:40:44.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionEtudiantGasa",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\GestionEtudiantGasa.vbproj",
+              "RelativeDocumentMoniker": "GestionEtudiantGasa.vbproj",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\GestionEtudiantGasa.vbproj",
+              "RelativeToolTip": "GestionEtudiantGasa.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-10-23T08:37:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\Models.vb",
+              "RelativeDocumentMoniker": "Models.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\Models.vb",
+              "RelativeToolTip": "Models.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T08:40:49.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmClassement.resx",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\FrmClassement.resx",
+              "RelativeDocumentMoniker": "FrmClassement.resx",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\FrmClassement.resx",
+              "RelativeToolTip": "FrmClassement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-23T09:00:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculateur.vb",
+              "DocumentMoniker": "C:\\data\\GestionEtudiantGasa\\Calculateur.vb",
+              "RelativeDocumentMoniker": "Calculateur.vb",
+              "ToolTip": "C:\\data\\GestionEtudiantGasa\\Calculateur.vb",
+              "RelativeToolTip": "Calculateur.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T08:40:47.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
